@@ -6,7 +6,7 @@
         <script>
             var a=prompt("enter value 1:");
             var b=prompt("enter value 2:");
-            document.write(a'b);
+            document.write(a*b);
             </script>
             </body>
             </html>
